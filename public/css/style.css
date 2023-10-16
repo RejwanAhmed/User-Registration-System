@@ -1,0 +1,10 @@
+:root {
+    --form-color: white;
+    --body-color: rgba(243, 240, 240, 0.596);
+}
+.body-color {
+    background-color: var(--body-color);
+}
+.form-setting {
+    background-color: var(--form-color);
+}
